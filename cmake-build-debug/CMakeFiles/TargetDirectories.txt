@@ -1,0 +1,3 @@
+/Users/vladpuscaru/Documents/gmt/extra/comp4300/ass2/cmake-build-debug/CMakeFiles/COMP4300_Assignment2.dir
+/Users/vladpuscaru/Documents/gmt/extra/comp4300/ass2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladpuscaru/Documents/gmt/extra/comp4300/ass2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

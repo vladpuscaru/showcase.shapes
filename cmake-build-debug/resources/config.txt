@@ -1,0 +1,5 @@
+Window 1280 720 60 0
+Font astral_sisters.ttf 24 255 255 255
+Player 22 5 0 0 0 255 0 0 2 8
+Enemy 22 3 6 2 8 120 120
+Bullet 5 20 255 255 255 255 255 255 2 20 90
